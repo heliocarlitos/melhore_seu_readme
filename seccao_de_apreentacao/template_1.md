@@ -1,6 +1,6 @@
 # Olá! eu sou Hélio Carlitos 
 
-<img src="./imagens/computer-illustration.webp" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="../imagens/computer-illustration.webp" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Sou um desenvolvedor web e programador apaixonado por criar soluções inovadoras e funcionais para a web. Tenho experiência em front-end e back-end, desenvolvendo projetos que equilibram design moderno, acessibilidade e alta performance.
