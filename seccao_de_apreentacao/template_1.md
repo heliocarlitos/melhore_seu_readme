@@ -9,9 +9,9 @@
  **💻 Competências principais:**
 
 - [x] HTML, CSS, JavaScript;
-- [x] Frameworks como React e Node.js
-- [x] Optimização para SEO e acessibilidade
-- [x] Boas práticas em desenvolvimento ágil
+- [x] Frameworks como React e Node.js;
+- [x] Optimização para SEO e acessibilidade;
+- [x] Boas práticas em desenvolvimento ágil.
 
 **🚀 Objectivo:**
 
